@@ -15,14 +15,17 @@
 
 ---
 
-### Datasets table:
-| Proyecto | Dataset | Fuente | Link |
-|---------|---------|--------||--------|
-| MLP | Big Five Personality Test (≈1M respuestas) | Kaggle | https://www.kaggle.com/datasets/tunguz/big-five-personality-test/data |
-| CNN | Tortoise Images Dataset (land vs water) | para este utilice varias fuentes, como images.cv, fotos de internet filtradas por mi y kaggle | https://www.kaggle.com/datasets/deepakat002/dolphintortoise?resource=download&select=ff9d9ce2602aeafe.jpg , https://images.cv/dataset/tortoise-image-classification-dataset , https://images.cv/search-labeled-image-dataset?query=Turtle |
-| RNN | Dovahzul-English Parallel Corpus | Dataset personalizado + ampliado | https://www.thuum.org/ (seccion downloads) |
+### 📊 Datasets Table
+
+| Proyecto | Dataset | Fuente | Enlace |
+|----------|---------|---------|--------|
+| **MLP** | Big Five Personality Test (≈1M respuestas) | Kaggle | [Dataset en Kaggle](https://www.kaggle.com/datasets/tunguz/big-five-personality-test/data) |
+| **CNN** | Tortoise Images Dataset (land vs water) | Varias fuentes (Kaggle, Images.CV, imágenes filtradas manualmente) |  Kaggle: [Dolphin/Tortoise Dataset](https://www.kaggle.com/datasets/deepakat002/dolphintortoise?resource=download&select=ff9d9ce2602aeafe.jpg) <br>  images.cv Dataset: [Tortoise Classification Dataset](https://images.cv/dataset/tortoise-image-classification-dataset) <br>  images.cv Search: [Turtle Labeled Images](https://images.cv/search-labeled-image-dataset?query=Turtle) |
+| **RNN** | Dovahzul–English Parallel Corpus | Dataset personalizado + ampliado | [Thuum.org – sección *Downloads*](https://www.thuum.org/) |
 
 ---
+
+
 
 </div>
 
