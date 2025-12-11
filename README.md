@@ -15,7 +15,7 @@
 
 ---
 
-### 📊 Datasets Table
+### Datasets Table
 
 | Proyecto | Dataset | Fuente | Enlace |
 |----------|---------|---------|--------|
