@@ -225,3 +225,4 @@ Resultados principales
 - Usar transfer learning en visión (ResNet, EfficientNet)
 - Implementar un VAE para generación de frases o perfiles de personalidad
 - Aplicar técnicas de hiperparámetros (Optuna, Ray Tune)
+- Definitivamente, aumentar el dataset para los modelos de dovahzul y tortugas
